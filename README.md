@@ -3,5 +3,5 @@ Small project to understand C++
 
 Implements
 - Alpha beta pruning
-- Transposition tables
+- Transposition tables with Zobrist hashing
 - Iterative deepening
